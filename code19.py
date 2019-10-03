@@ -6,10 +6,10 @@ from time import sleep
 #----Axes--------       --------Buttons---------------   -------Hat-------
 #ForBack = 1			Tigger = 0		7 = 6				
 #LeftRight = 0			JoySide = 1		8 = 7
-#Paddle = 3				3 = 2			9 = 8		    		(0,1)
-#Twist = 4				4 = 3			10 = 9			 (-1,0) DPAD (1,0)
-#						5 = 4			11 = 10				   (0,-1)
-#				 		6 = 5			12 = 11
+#Paddle = 3			3 = 2			9 = 8		    		(0,1)
+#Twist = 4			4 = 3			10 = 9			 (-1,0) DPAD (1,0)
+#				5 = 4			11 = 10		       	   (0,-1)
+#		 		6 = 5			12 = 11
 #					[number on joystick = number in program]
 
 global server
